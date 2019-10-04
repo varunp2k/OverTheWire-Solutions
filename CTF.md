@@ -108,7 +108,7 @@ Explanation:
 
 ### Level 11 &rarr; Level 12
 
-Command: `cat data.txt | tr '[a-zA-Z]' '[n-za-mN-ZA-M'`
+Command: `cat data.txt | tr '[a-zA-Z]' '[n-za-mN-ZA-M]'`
 
 Explanation:
  - `tr` converts elements from one set to another
